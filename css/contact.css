@@ -1,0 +1,109 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+/*section 3 start*/
+#sectioncm3
+{
+background-image: url("../image/con1.jpg");
+height:calc(100vh - 50px);
+width: 100%;
+background-repeat:no-repeat;
+background-size: cover;
+background-position: center;
+}
+#sectioncm3 h2
+{
+	color: white;
+	font-size: 50px;
+}
+#sectioncm3 p
+{
+	color: white;
+	width: 500px;
+	padding-top: 10px ;
+	font-size: 15px;
+}
+.btn
+{
+	text-decoration: none;
+	border-radius: 25px;
+	color: #ffb321;
+	background-color: transparent;
+	font-weight:bold;
+	border: 2px solid #ffb321;
+}
+.btn:hover
+{
+	background-color: #ffb321;
+	color: black;	 
+}
+.contnt
+{
+	display: flex;
+	align-items: center;
+	height: calc(100vh - 80px);
+	}
+/* section 4 start */
+
+#sectioncm4
+{
+	text-align: center;
+	padding: 100px 0px;
+}
+
+/* section 5 start*/
+
+#sectioncm5
+{
+	background-color: #EFEEEC;
+}
+#sectioncm5 .row
+{
+	padding: 40px 0px;
+}
+#sectioncm5 p
+{
+	padding: 20px 0px;
+}
+
+#sectioncm5 input
+{
+	padding: 5px 60px;
+	margin: 20px 5px;
+	outline-style: none;
+}
+#sectioncm5 textarea
+{
+	width: 100%;
+	height: 300px;
+	outline-style: none;
+}
+.btn2
+{
+	text-decoration: none;
+	border-radius: 25px;
+	color:black ;
+	background-color: #ffb321;
+	font-weight:bold;
+	 border: 2px solid #ffb321;
+	 padding: 6px 50px;
+}
+.btn2:hover
+{
+	background-color: transparent;
+	color:black	 
+}
+
+#sectioncm5 .address
+{
+padding: 100px 0px;
+}
+#sectioncm5 h5
+{
+	padding: 10px 0px;
+}
